@@ -1,0 +1,32 @@
+.footer-container{
+    background-color: rgb(202, 202, 202);
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.meal-type{
+    color: white;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.meal-type-2{
+    color: white;
+    font-size: 30px;
+}
+
+.menu-btn{
+    background-color: red;
+}
+
+.centerLogo{
+    margin: 20px;
+}
+
+.navbar-anchor{
+    font-size: 20px;
+    /* border: 1px solid black; */
+    height: 40px;
+}
